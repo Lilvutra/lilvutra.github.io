@@ -7,7 +7,7 @@ export default function Projects() {
       id="projects"
       className="min-h-screen px-10 py-32"
     >
-      <h2 className="text-5xl font-bold mb-10">
+      <h2 className="text-3xl font-bold mb-10">
         Projects
       </h2>
 

@@ -10,12 +10,12 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        <h1 className="text-7xl font-bold">
-          Trang Vu
+        <h1 className="text-6xl font-bold">
+          Lilvutra 
         </h1>
 
         <p className="text-zinc-400 mt-4 text-xl">
-        So called engineer
+        I love to learn about systems, AI and math models
         </p>
       </motion.div>
     </section>

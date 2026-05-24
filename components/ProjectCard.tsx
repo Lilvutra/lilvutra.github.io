@@ -9,7 +9,7 @@ export default function ProjectCard({
 }: Props) {
   return (
     <div className="border border-zinc-800 p-6 rounded-2xl">
-      <h3 className="text-2xl font-bold">
+      <h3 className="text-1xl font-bold">
         {title}
       </h3>
 

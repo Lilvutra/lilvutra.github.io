@@ -2,6 +2,8 @@ import Navbar from "@/components/Navbar"
 import Hero from "@/components/Hero"
 import About from "@/components/About"
 import Projects from "@/components/Projects"
+import Rants from "@/components/Eventnote"
+
 export default function Home() {
   return (
     <main className="bg-black text-white">
@@ -9,7 +11,8 @@ export default function Home() {
       <Hero />
       <About />
       <Projects />
-      <h1>Still young</h1>
+      <Rants />
+      <h1>I made this on an evening of my last day of school</h1>
     </main>
   )
 }
