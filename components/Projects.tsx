@@ -17,6 +17,8 @@ export default function Projects() {
             key={project.title}
             title={project.title}
             description={project.description}
+            year={project.year}
+            tags={project.tags}
           />
         ))}
       </div>

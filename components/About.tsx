@@ -9,7 +9,7 @@ export default function About() {
       </h2>
 
       <p className="text-zinc-400 max-w-3xl text-lg">
-        I build AI systems and full-stack products.
+        Hello, I love to build AI systems and full-stack products.
       </p>
     </section>
   )

@@ -15,7 +15,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-zinc-400 mt-4 text-xl">
-        I love to learn about systems, AI and math models
+        I love to learn about almost many things, but mostly intrigued with AI and models
         </p>
       </motion.div>
     </section>

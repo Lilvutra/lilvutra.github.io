@@ -1,8 +1,8 @@
 export const rants = [
   {
-    title: "Most AI products are wrappers",
+    title: "On the very last day",
     content:
-      "Most AI startups are not building intelligence. They are building interfaces around APIs.",
+      "I may not graduate this year because of missing credits",
     date: "May 24, 2026",
     time: "00:24"
   },
