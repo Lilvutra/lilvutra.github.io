@@ -11,7 +11,7 @@ export default function Hero() {
         transition={{ duration: 1 }}
       >
         <h1 className="text-5xl font-bold">
-          Hello 
+          Xin chào|Hello  
         </h1>
 
         <p className="text-zinc-400 mt-4 text-xl">
