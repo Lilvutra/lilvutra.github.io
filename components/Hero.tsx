@@ -10,8 +10,8 @@ export default function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1 }}
       >
-        <h1 className="text-6xl font-bold">
-          Lilvutra 
+        <h1 className="text-5xl font-bold">
+          Hello 
         </h1>
 
         <p className="text-zinc-400 mt-4 text-xl">

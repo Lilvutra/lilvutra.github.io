@@ -9,7 +9,7 @@ export default function About() {
       </h2>
 
       <p className="text-zinc-400 max-w-3xl text-lg">
-        Hello, I love to build AI systems and full-stack products.
+        My name is Trang but I use lilvutra here and there a lot. I love to build AI systems and full-stack products.
       </p>
     </section>
   )
