@@ -9,7 +9,7 @@ export default function Home() {
       <Hero />
       <About />
       <Projects />
-      <h1>Hello</h1>
+      <h1>Still young</h1>
     </main>
   )
 }
